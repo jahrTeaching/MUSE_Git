@@ -21,7 +21,6 @@
     ! Body of MUSE_Git
     print *, 'Hello World'
     write(*,*) 'Hello World'
-    write(*,*) 'Hello World in modification branch'
 
     end program MUSE_Git
 
