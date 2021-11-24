@@ -20,6 +20,7 @@
 
     ! Body of MUSE_Git
     print *, 'Hello World'
+    write(*,*) 'Hello World'
 
     end program MUSE_Git
 
