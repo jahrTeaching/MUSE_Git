@@ -21,6 +21,7 @@
     ! Body of MUSE_Git
     print *, 'Hello World'
     write(*,*) 'Hello World'
+    write(*,*) 'Hello World from master'
 
     end program MUSE_Git
 
