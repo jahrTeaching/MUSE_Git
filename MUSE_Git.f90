@@ -20,6 +20,7 @@
 
     ! Body of MUSE_Git
     print *, 'Hello World'
+    write(*,*) 'modification from collaborator 2'
     write(*,*) 'Hello World'
     write(*,*) 'from modification branch'
     write(*,*) 'modification collaborator 1'
