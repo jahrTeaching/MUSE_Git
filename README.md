@@ -3,7 +3,7 @@
  <font size="5"> This is my text number1</font> 
  
  
-#1. Create a remote GitHub repository
+1. ##Create a remote GitHub repository
 2. Clone a remote repository 
 3. Workflow
 ![](/figures/GHStates.png =250x)
