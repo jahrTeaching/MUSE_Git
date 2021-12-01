@@ -1,8 +1,9 @@
+---
 # Basic operations to work with GitHub 
+---
 
 
---- 
-1. ### Create a remote GitHub repository
+1. # Create a remote GitHub repository
 
 2. Clone a remote repository 
 3. Workflow
