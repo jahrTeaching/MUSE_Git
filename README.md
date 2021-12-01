@@ -1,5 +1,5 @@
 
-# Basic operations to work with GitHub [GitHub](http://github.com)
+# Basic operations to work with GitHub [Manual](http://github.com/jahrWork/Visual-Studio-projects)
 ---
 
  *  ## Create a remote GitHub repository
