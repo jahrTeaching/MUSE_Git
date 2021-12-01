@@ -4,7 +4,7 @@
 #1. Create a remote GitHub repository
 2. Clone a remote repository 
 3. Workflow
-![](/figures/GHStates.png)
+![](/figures/GHStates.png =250x)
 4. How to work with Git
 5. How to merge to branches
 ![](/figures/WorkFlowGit.png)
