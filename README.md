@@ -8,7 +8,7 @@
    
 ![](/figures/GHStates.png)
 
----
+
   * ## How to work with Git
   * ## How to merge to branches
    
