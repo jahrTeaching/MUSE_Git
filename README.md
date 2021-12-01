@@ -3,7 +3,7 @@
 ---
 
 
-   ## * Create a remote GitHub repository
+   ## *Create a remote GitHub repository
    ## Clone a remote repository 
    ## Workflow
    
