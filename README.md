@@ -1,2 +1,3 @@
 # This is a test 
-![](/figures/GHstatus.png)
+![](/figures/GHStates.png)
+![](/figures/WorkFlowGit.png)
