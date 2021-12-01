@@ -1,6 +1,5 @@
 ---
 # Basic operations to work with GitHub 
---
 
 
  *  ## Create a remote GitHub repository
