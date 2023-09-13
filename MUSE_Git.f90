@@ -4,7 +4,7 @@
 
        implicit none
        
-       write(*,*) 'Hello World'
+       write(*,*) 'Hello World from VS'
 
     end program MUSE_Git
 
