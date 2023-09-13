@@ -4,9 +4,7 @@
 
        implicit none
        
-       write(*,*) 'Hello World from collaborator WEB'
-       write(*,*) 'Hello World from collaborator 1'
-       write(*,*) 'Hello World from collaborator 2'
+       write(*,*) 'Hello World from  VS'
 
     end program MUSE_Git
 
